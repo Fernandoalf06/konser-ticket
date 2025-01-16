@@ -1,0 +1,70 @@
+{
+  "concerts": [
+    {
+      "id": 1,
+      "title": "The Eras Tour",
+      "artist": "Taylor Swift",
+      "venue": "SoFi Stadium, Los Angeles",
+      "date": "2025-03-15",
+      "price": 399,
+      "available_tickets": 250,
+      "image_url": "/images/taylorswift.jpg",
+      "description": "Experience Taylor Swift's record-breaking Eras Tour, featuring music from all of her albums."
+    },
+    {
+      "id": 2,
+      "title": "Renaissance World Tour",
+      "artist": "Beyoncé",
+      "venue": "MetLife Stadium, New Jersey",
+      "date": "2025-04-20",
+      "price": 450,
+      "available_tickets": 180,
+      "image_url": "/images/beyonce.jpeg",
+      "description": "Join Queen Bey for an unforgettable night of music and spectacle."
+    },
+    {
+      "id": 3,
+      "title": "Coldplay: Music of the Spheres",
+      "artist": "Coldplay",
+      "venue": "Rose Bowl, Pasadena",
+      "date": "2025-05-10",
+      "price": 299,
+      "available_tickets": 400,
+      "image_url": "/images/coldplay.png",
+      "description": "Experience Coldplay's eco-friendly spectacular show featuring their greatest hits."
+    },
+    {
+      "id": 4,
+      "title": "Born Pink World Tour",
+      "artist": "BLACKPINK",
+      "venue": "Madison Square Garden, New York",
+      "date": "2025-06-05",
+      "price": 350,
+      "available_tickets": 200,
+      "image_url": "/images/blackpink.jpg",
+      "description": "BLACKPINK brings their electrifying K-pop performance to New York."
+    },
+    {
+      "id": 5,
+      "title": "Imagine Dragons: Mercury Tour",
+      "artist": "Imagine Dragons",
+      "venue": "T-Mobile Arena, Las Vegas",
+      "date": "2025-07-12",
+      "price": 275,
+      "available_tickets": 320,
+      "image_url": "/images/imaginedragon.jpg",
+      "description": "Join Imagine Dragons for an explosive night of alternative rock."
+    },
+    {
+      "id": 6,
+      "title": "Bruno Mars: 24K Magic Returns",
+      "artist": "Bruno Mars",
+      "venue": "Allegiant Stadium, Las Vegas",
+      "date": "2025-08-08",
+      "price": 375,
+      "available_tickets": 280,
+      "image_url": "/images/brunomars.jpg",
+      "description": "Bruno Mars brings his signature style and incredible band for an unforgettable performance."
+    }
+  ]
+}
